@@ -89,6 +89,7 @@ If you use this code or methodology in your research, please cite the following 
   booktitle={2025 29th International Conference Information Visualisation (IV)}, 
   title={Voxel-Based 3D Visualization Approaches for Studying Lung Nodules from Chest X-Rays or CT Scans}, 
   year={2025},
-  pages={396-401},doi={10.1109/IV68685.2025.00075}
+  pages={396-401},
+  doi={10.1109/IV68685.2025.00075}
 }
 ```
