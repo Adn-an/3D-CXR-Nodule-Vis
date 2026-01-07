@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "3D-CXR-Nodule-Vis"
+authors:
+  - family-names: "Mustafic"
+    given-names: "Adnan"
+  - family-names: "Melkemi"
+    given-names: "Mahmoud"
+  - family-names: "Hammoudi"
+    given-names: "Karim"
+preferred-citation:
+  type: conference-paper
+  title: "Voxel-Based 3D Visualization Approaches for Studying Lung Nodules from Chest X-Rays or CT Scans"
+  authors:
+    - family-names: "Mustafic"
+      given-names: "Adnan"
+    - family-names: "Melkemi"
+      given-names: "Mahmoud"
+    - family-names: "Hammoudi"
+      given-names: "Karim"
+  year: 2025
+  collection-title: "2025 29th International Conference Information Visualisation (IV)"
+  doi: "10.1109/IV68685.2025.00075"
+  start: 396
+  end: 401
+  keywords:
+    - "3D Visualization"
+    - "Lung Nodules"
+    - "Chest X-rays"
+    - "Computed Tomography"
+    - "Voxel-Based"
